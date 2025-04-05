@@ -16,6 +16,7 @@ const navigation = [
   { name: "Projects", href: "/projects" },
   { name: "Schedules", href: "/schedules" },
   { name: "Lost & Found", href: "/lost-found" },
+  { name: "complaints", href: "/complaints" },
 ]
 
 export function Header() {
