@@ -9,14 +9,13 @@ A comprehensive campus portal for students, faculty, and administrators, featuri
 - *Projects* - Browse campus projects with filtering options
 - *Complaints* - View and submit complaints
 - *Announcements and Events* - Stay updated with campus activities
-- *Dark/Light Theme* - Toggle between dark and light themes
+
 
 ## Tech Stack
 
 - *Next.js* - React framework with App Router
 - *Tailwind CSS* - Utility-first CSS framework
 - *shadcn/ui* - Reusable UI components
-- *next-themes* - Dark/light theme support
 
 ## Getting Started
 
@@ -56,9 +55,4 @@ No actual authentication is implemented. For demo purposes:
 
 This project can be easily deployed on Vercel without additional configuration.
 
-## Future Enhancements
 
-- Database integration with Neon PostgreSQL (planned)
-- Authentication with NextAuth.js
-- Real data persistence
-- API integration
