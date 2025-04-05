@@ -29,7 +29,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <img
-                  src="/placeholder.svg?height=100&width=320"
+                  src="/announcements.svg?height=100&width=320"
                   alt="Announcements illustration"
                   className="w-full h-32 object-cover rounded-md mb-4"
                 />
@@ -48,7 +48,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <img
-                  src="/placeholder.svg?height=100&width=320"
+                  src="/events.svg?height=100&width=320"
                   alt="Events illustration"
                   className="w-full h-32 object-cover rounded-md mb-4"
                 />
@@ -67,7 +67,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <img
-                  src="/placeholder.svg?height=100&width=320"
+                  src="/lost.svg?height=100&width=320"
                   alt="Lost and found illustration"
                   className="w-full h-32 object-cover rounded-md mb-4"
                 />
